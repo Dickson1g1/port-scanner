@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -Wl,--dependency-file=CMakeFiles/pscanner.dir/link.d CMakeFiles/pscanner.dir/src/main.cpp.o CMakeFiles/pscanner.dir/src/scanner.cpp.o -o pscanner  -lpthread
